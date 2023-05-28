@@ -1,0 +1,16 @@
+.form-card {
+  box-shadow: 0 0 5px 0;
+  backdrop-filter: blur(3px);
+
+}
+.footer{
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
+.card-title{
+  background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+.form-label{
+  color:black !important;
+}
